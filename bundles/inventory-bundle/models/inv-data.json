@@ -1,5 +1,5 @@
 {
-    "drink-type": [
+    "drinkType": [
         {
             "id": 1,
             "type": "water",

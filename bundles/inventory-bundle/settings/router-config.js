@@ -1,7 +1,6 @@
 const routes = require('express').Router();
+const indexController = require('../controllers/indexController');
 
-routes.get('/', (req, res) => {
-    res.status(200).send('You have reached the home inventory page.');
-});
+routes.get('/', indexController);
 
 module.exports = routes;

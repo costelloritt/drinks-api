@@ -1,0 +1,19 @@
+{
+    "drink-type": [
+        {
+            "id": 1,
+            "type": "water",
+            "amount": 10
+        },
+        {
+            "id": 2,
+            "type": "coffee",
+            "amount": 23
+        },
+        {
+            "id": 3,
+            "type": "soda",
+            "amount": 6
+        }
+    ]
+}

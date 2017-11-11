@@ -1,0 +1,14 @@
+{
+  "name": "drinks-api",
+  "version": "1.0.0",
+  "description": "api to test bundling folder structure",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ritt Costello",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

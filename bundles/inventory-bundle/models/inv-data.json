@@ -1,0 +1,41 @@
+{
+    "drinkType": [
+        {
+            "id": 1,
+            "type": "water",
+            "amount": 10
+        },
+        {
+            "id": 2,
+            "type": "coffee",
+            "amount": 23
+        },
+        {
+            "id": 3,
+            "type": "soda",
+            "amount": 6
+        }
+    ],
+    "drinkBrand": [
+        {
+            "id": 1,
+            "name": "Dasani",
+            "amount": 5
+        },
+        {
+            "id": 2,
+            "name": "Folgers",
+            "amount": 16
+        },
+        {
+            "id": 3,
+            "name": "Coca-Cola",
+            "amount": 6
+        },
+        {
+            "id": 4,
+            "name": "Nestle",
+            "amount": 12
+        }
+    ]
+}

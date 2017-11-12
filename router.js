@@ -1,5 +1,5 @@
 const routes = require('express').Router();
-const inventory = require('./bundles/inventory-bundle/settings/router-config');
+const inventory = require('./bundles/inventory-bundle/bundle-config/router-config');
 
 routes.get('/', (req, res) => {
     res.status(200).send('This is the home route.');
